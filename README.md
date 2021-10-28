@@ -13,6 +13,7 @@
   
 <div align="center"><br>
   <img align="center" alt="Bia-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Bia_RStudio" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg">
   <img align="center" alt="Bia-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Bia-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
